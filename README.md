@@ -1,4 +1,8 @@
-# vuejs
+
+
+# Simple project developed with Vuejs for study purposes.
+
+This application allows the user to order their favorite hamburgers, allowing them to choose bread, meat and various options. Allows you to create, list, update status and cancel orders.
 
 ## Project setup
 ```
